@@ -7,18 +7,18 @@ body {
 h1 {
   line-height: 58px;
   font-size: 40px;
-  color: #042f64;
+  color: #2d212f;
 }
 
 h2 {
   font-size: 32px;
   font-weight: 800;
-  color: #042f64
+  color: #2d212f;
 }
 
 p {
   font-size: 18px;
-  color: #042f64;
+  color: #928186;
   line-height: 27px;
   margin: 0;
   padding-bottom: 26px;
@@ -29,7 +29,7 @@ a {
 }
 
 .callout {
-  color: #f53465;
+  color: #006ba6;
 }
 
 .about-me .column:nth-of-type(2) {
@@ -45,8 +45,8 @@ header {
 }
 
 header h1 {
-  max-width: 60%;
-  margin: 0 auto;
+  /* max-width: 60%; */
+  /* margin: 0 auto; */
 }
 
 .keyline {
