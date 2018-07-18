@@ -71,6 +71,9 @@ header h1 {
   padding-top: 142px;
   padding-bottom: 142px;
 }
+.profile{
+  width: 250px;
+}
 
 .about-me h2 {
   padding-bottom: 25px;
